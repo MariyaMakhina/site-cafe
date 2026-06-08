@@ -21,6 +21,15 @@
 <img width="1393" height="927" alt="дашборд" src="https://github.com/user-attachments/assets/accbd702-298c-4839-b015-73d400ee5a25" />
 <img width="1920" height="1070" alt="hero" src="https://github.com/user-attachments/assets/6abaa338-8c89-446a-b362-1da22184ee98" />
 
+## 🌐 Демо
+
+🔗 https://mariyamakhina.ru/cafe/
+
+## 👤 Контакты
+
+- Мой сайт-портфолио: [mariyamakhina.ru](https://mariyamakhina.ru)
+- Telegram: https://t.me/Mariya_Makhina
+
 
 
 ## Ссылки
